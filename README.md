@@ -12,6 +12,8 @@ Watch my [DEMO VIDEOS](https://www.youtube.com/playlist?app=desktop&list=PL6FWNw
 * [Breakout Game](https://github.com/Sheng-Feng/Python_Projects/tree/main/Side_Projects/break_out_game)
   * animation & game designing
   * [demo video](https://www.youtube.com/watch?v=o63KPoIXJS4&list=PL6FWNwNPGCE56gP3lxhYPLoUbqE_unUiP&index=1&ab_channel=stanCode%E6%A8%99%E6%BA%96%E7%A8%8B%E5%BC%8F%E6%95%99%E8%82%B2%E6%A9%9F%E6%A7%8B)
+* [PhotoShop](https://github.com/Sheng-Feng/Python_Projects/tree/main/Side_Projects/anagram_game_solver)
+  * recursive functions
 * [Name Searching System](https://github.com/Sheng-Feng/Python_Projects/tree/main/Side_Projects/name_searching_system)
   * data structure
   * [demo video](https://www.youtube.com/watch?v=9JIc0CZwsa4&list=PL6FWNwNPGCE56gP3lxhYPLoUbqE_unUiP&index=4&ab_channel=stanCode%E6%A8%99%E6%BA%96%E7%A8%8B%E5%BC%8F%E6%95%99%E8%82%B2%E6%A9%9F%E6%A7%8B)
