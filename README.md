@@ -3,7 +3,7 @@
 Hello there!
 This repository holds my programming projects done during the period of learning Python.
 
-Watch my [DEMO VIDEOS](https://www.youtube.com/playlist?app=desktop&list=PL6FWNwNPGCE56gP3lxhYPLoUbqE_unUiP)!
+Watch my [DEMO VIDEOS](https://www.youtube.com/playlist?list=PLYs_bZmrx01dEaq7es1BcoNSNY2fwf9su)!
 
 ## Project Source Codes:
 * [Hangman Game](https://github.com/Sheng-Feng/Python_Projects/tree/main/Side_Projects/hangman_game)
