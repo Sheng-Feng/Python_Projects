@@ -145,7 +145,7 @@ class BreakoutGraphics:
 
     def reset_game(self):
         self.ball.x = (self.window.width - self.ball.width)//2
-        self.ball.y = (self.window.width - self.ball.width) // 2
+        self.ball.y = (self.window.height - self.ball.height) // 2
         self.__dx = 0
         self.__dy = 0
         self.click = False                                  # Click T/F switch controls the ball movement.
