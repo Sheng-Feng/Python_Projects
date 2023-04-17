@@ -9,22 +9,24 @@ Watch my [DEMO VIDEOS](https://www.youtube.com/playlist?app=desktop&list=PL6FWNw
 * [Hangman Game](https://github.com/Sheng-Feng/Python_Projects/tree/main/Side_Projects/hangman_game)
   * python semantics & syntax
   * string processing
-  * [demo video](https://www.youtube.com/watch?v=VSQop2frJLw&list=PL6FWNwNPGCE56gP3lxhYPLoUbqE_unUiP&index=5&ab_channel=stanCode%E6%A8%99%E6%BA%96%E7%A8%8B%E5%BC%8F%E6%95%99%E8%82%B2%E6%A9%9F%E6%A7%8B)
+  * [demo video](https://youtube.com/shorts/0w1Jb6Zv01g)
 * [Breakout Game](https://github.com/Sheng-Feng/Python_Projects/tree/main/Side_Projects/break_out_game)
   * animation & game designing
   * object-oriented programming
-  * [demo video](https://www.youtube.com/watch?v=o63KPoIXJS4&list=PL6FWNwNPGCE56gP3lxhYPLoUbqE_unUiP&index=1&ab_channel=stanCode%E6%A8%99%E6%BA%96%E7%A8%8B%E5%BC%8F%E6%95%99%E8%82%B2%E6%A9%9F%E6%A7%8B)
+  * [demo video](https://youtube.com/shorts/CBodOWkBFSA)
 * [PhotoShop](https://github.com/Sheng-Feng/Python_Projects/tree/main/Side_Projects/PhotoShop)
   * image processing
   * data file import & processing
+  * [demo video](https://youtu.be/irq8c_Fpp6w)
 * [Name Searching System](https://github.com/Sheng-Feng/Python_Projects/tree/main/Side_Projects/name_searching_system)
   * data structure
   * data visualization
-  * [demo video](https://www.youtube.com/watch?v=9JIc0CZwsa4&list=PL6FWNwNPGCE56gP3lxhYPLoUbqE_unUiP&index=4&ab_channel=stanCode%E6%A8%99%E6%BA%96%E7%A8%8B%E5%BC%8F%E6%95%99%E8%82%B2%E6%A9%9F%E6%A7%8B)
+  * [demo video](https://youtu.be/azf5Zhy-bxQ)
 * [Anagram Game Solver](https://github.com/Sheng-Feng/Python_Projects/tree/main/Side_Projects/anagram_game_solver)
   * data structure
   * recursive functions
+  * [demo video](https://youtu.be/WNiqeyIv4fM)
 * [Boggle Game Solver](https://github.com/Sheng-Feng/Python_Projects/tree/main/Side_Projects/boggle_game_solver)
   * data structure
   * recursive functions
-  * [demo video](https://www.youtube.com/watch?v=gbLlbpOppzA&list=PL6FWNwNPGCE56gP3lxhYPLoUbqE_unUiP&index=3&ab_channel=stanCode%E6%A8%99%E6%BA%96%E7%A8%8B%E5%BC%8F%E6%95%99%E8%82%B2%E6%A9%9F%E6%A7%8B)
+  * [demo video](https://youtu.be/m4z0Z8xgXQM)
